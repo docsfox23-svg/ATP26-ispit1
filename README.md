@@ -1,4 +1,4 @@
-# ATP26 Ispit
+# # ATP26 Ispit 🚀
 
 Dokumentacija zamišljenog projekta izrađena u Markdownu za potrebe ispita iz akademskog i tehničkog pisanja. Projekt demonstrira korištenje GitHuba, GitHub Pagesa i osnovnih principa verzioniranja.
 
